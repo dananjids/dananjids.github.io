@@ -4,7 +4,7 @@ Canadian-qualified statistician with over 2 years of professional experience as 
 
 ## Work Experience
 ---------
-* [University of Saskatvhewan](https://www.usask.ca/) - Saskatoon, Canada
+* [University of Saskatchewan](https://www.usask.ca/) - Saskatoon, Canada
   - <span style="font-size:0.9em;">Teaching Assistant (Sep 2023 - Aug 2025)</span>
 * [Stax](https://www.stax.com/) - Colombo, Sri Lanka
   - <span style="font-size:0.9em;">Senior Associate Data Science (Sep 2022 - Jul 2023)</span>
@@ -22,10 +22,10 @@ Canadian-qualified statistician with over 2 years of professional experience as 
     
 ## Eduction
 ---------
-* McMaster University - Hamilton, Canada
-  - <span style="font-size:0.9em;">M.Sc. in Statistics (Sep 2023 - Dec 2024)</span>
+* University of Saskatchewan - Saskatoon, Canada
+  - <span style="font-size:0.9em;">M.Sc. in Statistics (Sep 2023 - Aug 2025)</span>
 * University of Peradeniya -  Peradeniya, Sri Lanka
-  - <span style="font-size:0.9em;">B.Sc. in Statistics and Operations Research (Dec 2017 - Aug 2022)</span>
+  - <span style="font-size:0.9em;">B.Sc. in Statistics (Jan 2016 - Mar 2020)</span>
   
 
 ## Certifications
@@ -36,6 +36,6 @@ Canadian-qualified statistician with over 2 years of professional experience as 
 
 ## Skills
 ---------
-* Languages - Python, PySpark, R, SQL, C, JAVA
-* Technologies - Azure, Git, Databricks, Tableau, Power BI, TensorFlow, GeoPandas
-* Expertise - Spatial Statistics, A/B Testing, Statistical Inferences, Machine Learning, Technical Writing
+* Languages - R, Python, SAS, SQL, C, JAVA
+* Technologies - Git, Tableau, Power BI, QGIS, ArcGIS
+* Expertise - Statistical Inferences, Machine Learning, Bayesian Statistica, Technical Writing
