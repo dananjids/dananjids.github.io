@@ -6,8 +6,14 @@ Canadian-qualified statistician with over 2 years of professional experience as 
 ---------
 * [University of Saskatvhewan](https://www.usask.ca/) - Saskatoon, Canada
   - <span style="font-size:0.9em;">Teaching Assistant (Sep 2023 - Aug 2025)</span>
-* OCTAVE John Keells Holdings PLC - Colombo, Sri Lanka
-  - <span style="font-size:0.9em;">Data Science and Engineering Associate (May 2022 - Jul 2023)</span>
+* [Stax](https://www.stax.com/) - Colombo, Sri Lanka
+  - <span style="font-size:0.9em;">Senior Associate Data Science (Sep 2022 - Jul 2023)</span>
+* [Syneos Health](https://www.syneoshealth.com/) - Colombo, Sri Lanka
+  - <span style="font-size:0.9em;">Statistical Programmer I (Jun 2021 - Sep 2022)</span>
+* [Medfuture](https://medfuture.com.au/) - Colombo, Sri Lanka
+  - <span style="font-size:0.9em;">Junior Data Anlyst (Dec 2020 - Jun 2021)</span>
+* [University of Peradeniya](https://www.pdn.ac.lk/) - Kandy, Sri Lanka
+  - <span style="font-size:0.9em;">Teaching Assistant (Mar 2020 - Dec 2020)</span>
  
 ## Projects
 ---------
