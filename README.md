@@ -2,13 +2,6 @@
 ---------
 Canadian-qualified statistician with over 2 years of professional experience as a data scientist and statistical programmer. Experienced in statistical inference, machine learning, Bayesian statistics, and clinical trial analysis. As a Data Scientist and Junior Analyst, I delivered actionable insights through cross-functional collaboration and mentored students as a Teaching Assistant. Currently developing an R package for the diagnosis of Bayesian hurdle models as part of MSc research in Statistics.
 
-## Projects
----------
-* [A Robust Nonparametric Framework for Repeated Spatial Clustering](https://rajithasenanayake.github.io/repeated-spatial-clustering/)
-* [Retrival Augmented Generation Based Watch Recommendation App](https://getyouralpinist.streamlit.app/)
-* Colombo Suburb Analysis for Mall Placement
-
-
 ## Work Experience
 ---------
 * McMaster University - Hamilton, Canada
@@ -17,6 +10,11 @@ Canadian-qualified statistician with over 2 years of professional experience as 
 * OCTAVE John Keells Holdings PLC - Colombo, Sri Lanka
   - <span style="font-size:0.9em;">Data Science and Engineering Associate (May 2022 - Jul 2023)</span>
  
+## Projects
+---------
+* [A Robust Nonparametric Framework for Repeated Spatial Clustering](https://rajithasenanayake.github.io/repeated-spatial-clustering/)
+* [Retrival Augmented Generation Based Watch Recommendation App](https://getyouralpinist.streamlit.app/)
+* Colombo Suburb Analysis for Mall Placement
     
 ## Eduction
 ---------
