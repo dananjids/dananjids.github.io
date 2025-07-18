@@ -26,13 +26,6 @@ Canadian-qualified statistician with over 2 years of professional experience as 
   - <span style="font-size:0.9em;">M.Sc. in Statistics (Sep 2023 - Aug 2025)</span>
 * University of Peradeniya -  Peradeniya, Sri Lanka
   - <span style="font-size:0.9em;">B.Sc. in Statistics (Jan 2016 - Mar 2020)</span>
-  
-
-## Certifications
----------
-* [Microsoft Certified Azure Data Science Associate](https://learn.microsoft.com/en-us/users/rajithasenanayake-0235/credentials/b254762fee0e13e?ref=https%3A%2F%2Fwww.linkedin.com%2F) (2024)
-* [IBM Data Science Professional Certificate](https://www.credly.com/badges/6225cabf-ed85-40d3-9977-563cd4e36cf8) (2020)
-* [Tensorflow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BG3DGR3QD5SY) (2020)
 
 ## Skills
 ---------
