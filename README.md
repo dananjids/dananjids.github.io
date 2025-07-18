@@ -31,4 +31,4 @@ Canadian-qualified statistician with over 2 years of professional experience as 
 ---------
 * Languages - R, Python, SAS, SQL, C, JAVA
 * Technologies - Git, Tableau, Power BI, QGIS, ArcGIS
-* Expertise - Statistical Inferences, Machine Learning, Bayesian Statistica, Technical Writing
+* Expertise - Statistical Inferences, Machine Learning, Bayesian Statistics, Technical Writing
