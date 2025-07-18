@@ -1,4 +1,4 @@
-## Professional Summary
+## About Me
 ---------
 Canadian-qualified statistician with over 2 years of professional experience as a data scientist and statistical programmer. Experienced in statistical inference, machine learning, Bayesian statistics, and clinical trial analysis. As a Data Scientist and Junior Analyst, I delivered actionable insights through cross-functional collaboration and mentored students as a Teaching Assistant. Currently developing an R package for the diagnosis of Bayesian hurdle models as part of MSc research in Statistics.
 
