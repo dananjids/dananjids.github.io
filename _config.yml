@@ -1,11 +1,11 @@
-title: Dananji Shashiprabha
+title: Rajitha Senanayake
 logo: /photo.jpeg
-# description: dananjids@gmail.com
+# description: rajithasenanayake@outlook.com
 show_downloads: True
 github:
   is_user_page: False
   is_project_page: False
-  zip_url: LinkedIn: https://www.linkedin.com/in/rajithasenanayake/
+  zip_url: https://www.linkedin.com/in/rajithasenanayake/
   tar_url: https://github.com/rajithasenanayake
   repository_url: https://medium.com/@sarsenanayake
 remote_theme: pages-themes/minimal@v0.2.0
