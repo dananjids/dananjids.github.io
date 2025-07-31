@@ -17,7 +17,7 @@ Canadian-qualified statistician with over 2 years of professional experience as 
  
 ## Projects {#projects}
 ---------
-* [Component-wise Z-residual Diagnosis for Bayesian Hurdle Models](https://dananjids.github.io/hurdlemodels/demo.html)
+* [Component-wise Z-residual Diagnosis for Bayesian Hurdle Models](https://dananjids.github.io/hurdlemodels/articles/vignette_hurdle.html)
 * [Meta-analysis of Quantitative Trait Loci associated with Disease resistance in rice](https://jnsfsl.sljol.info/articles/10372/files/submission/proof/10372-1-44073-1-10-20220419.pdf)
     
 ## Eduction
